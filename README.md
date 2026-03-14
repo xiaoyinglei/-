@@ -8,6 +8,7 @@
 
 ![图书](https://gitclone.com/download1/llm-dev/llm-dev.png)
 ![](https://gitclone.com/download1/ai-agent/agent-dev1.png)
+![](https://gitclone.com/download1/llm-dev/A2A.png)
 
 #### 由于一些依赖库的版本持续升级，配套资源运行时可能会出现问题，如果不能正常工作，请关注[勘误](https://github.com/little51/llm-dev/issues)
 
@@ -62,7 +63,6 @@
 [图书官方直营：https://item.jd.com/14810472.html](https://item.jd.com/14810472.html)
 
 ![网店链接](https://gitclone.com/download1/llm-dev/qr-code.png)
-
 
 
 ## 作者其他资源或网站链接
